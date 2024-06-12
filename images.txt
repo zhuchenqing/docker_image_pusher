@@ -5,7 +5,7 @@ kasmweb/nginx:1.25.3
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
 m1k1o/neko:firefox
 diluka/nas-tools:2.9.1
-nyanmisaka/jellyfin:10.9.6
+nyanmisaka/jellyfin:latest
 allanpk716/chinesesubfinder:latest
 linuxserver/jackett:latest
 fallenbagel/jellyseerr:latest
