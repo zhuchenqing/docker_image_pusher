@@ -12,3 +12,4 @@ fallenbagel/jellyseerr:latest
 linuxserver/sonarr:latest
 linuxserver/radarr:latest
 linuxserver/prowlarr:latest
+jeessy/ddns-go:latest
