@@ -14,3 +14,4 @@ linuxserver/radarr:latest
 linuxserver/prowlarr:latest
 jeessy/ddns-go:latest
 deluan/navidrome:latest
+yidadaa/chatgpt-next-web:latest
