@@ -15,3 +15,4 @@ linuxserver/prowlarr:latest
 jeessy/ddns-go:latest
 deluan/navidrome:latest
 yidadaa/chatgpt-next-web:latest
+jc21/nginx-proxy-manager:latest
