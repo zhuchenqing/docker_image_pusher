@@ -20,3 +20,4 @@ dreamacro/clash:latest
 haishanh/yacd:latest
 python:alpine3.19
 gdy666/lucky:latest
+nevinee/qbittorrent:latest
