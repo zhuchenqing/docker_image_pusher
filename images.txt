@@ -21,3 +21,4 @@ haishanh/yacd:latest
 python:alpine3.19
 gdy666/lucky:latest
 nevinee/qbittorrent:latest
+xhongc/music_tag_web:latest
