@@ -2,6 +2,9 @@ alpine
 kasmweb/nginx:1.25.3
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
+ghcr.io/monlor/xiaoya-alist:latest
+ghcr.io/monlor/xiaoya-metadata:latest
+ghcr.io/monlor/xiaoya-embyserver:latest
 m1k1o/neko:firefox
 diluka/nas-tools:2.9.1
 nyanmisaka/jellyfin:latest
@@ -22,6 +25,3 @@ python:alpine3.19
 gdy666/lucky:latest
 nevinee/qbittorrent:latest
 xhongc/music_tag_web:latest
-xiaoya-alist:latest
-xiaoya-metadata:latest
-xiaoya-embyserver:latest
