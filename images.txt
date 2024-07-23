@@ -22,3 +22,6 @@ python:alpine3.19
 gdy666/lucky:latest
 nevinee/qbittorrent:latest
 xhongc/music_tag_web:latest
+monlor/xiaoya-alist:latest
+monlor/xiaoya-metadata:latest
+monlor/xiaoya-embyserver:latest
