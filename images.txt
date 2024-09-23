@@ -1,3 +1,4 @@
+haishanh/yacd:master
 jellyfin/jellyfin:latest
 ydkn/cups:latest
 alpine
