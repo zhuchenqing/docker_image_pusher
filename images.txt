@@ -1,3 +1,4 @@
+linuxserver/jackett:latest
 haishanh/yacd:master
 jellyfin/jellyfin:latest
 ydkn/cups:latest
@@ -11,7 +12,6 @@ ghcr.io/monlor/xiaoya-embyserver:latest
 m1k1o/neko:firefox
 diluka/nas-tools:2.9.1
 allanpk716/chinesesubfinder:latest
-linuxserver/jackett:latest
 fallenbagel/jellyseerr:latest
 linuxserver/sonarr:latest
 linuxserver/radarr:latest
