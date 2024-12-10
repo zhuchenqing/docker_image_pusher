@@ -1,3 +1,4 @@
+yidadaa/chatgpt-next-web:latest
 linuxserver/jackett:latest
 haishanh/yacd:master
 jellyfin/jellyfin:latest
@@ -18,7 +19,6 @@ linuxserver/radarr:latest
 linuxserver/prowlarr:latest
 jeessy/ddns-go:latest
 deluan/navidrome:latest
-yidadaa/chatgpt-next-web:latest
 jc21/nginx-proxy-manager:latest
 bellamy/wallos:latest
 dreamacro/clash:latest
