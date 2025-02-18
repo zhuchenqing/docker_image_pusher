@@ -1,5 +1,5 @@
-langgenius/dify-sandbox:latest
-langgenius/dify-plugin-daemon:latest
+langgenius/dify-sandbox:0.2.10
+langgenius/dify-plugin-daemon:0.0.1-local
 ubuntu/squid:latest
 postgres:15-alpine
 redis:6-alpine
