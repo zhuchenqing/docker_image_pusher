@@ -1,3 +1,4 @@
+wttwins/wrong-notebook:latest
 advplyr/audiobookshelf:latest
 whyour/qinglong:debian
 jlesage/czkawka:latest
